@@ -5,6 +5,4 @@ hazelcast:
       tcp-ip:
         enabled: true
         member-list:
-          - 0.hazelcast-embedded.apps.internal
-          - 1.hazelcast-embedded.apps.internal
-          - 2.hazelcast-embedded.apps.internal
+          - hazelcast-app.apps.internal

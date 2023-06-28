@@ -1,6 +1,6 @@
 ---
 applications:
-- name: hazelcast-embedded
+- name: hazelcast-app
   memory: 1G
   instances: 0
   random-route: false
